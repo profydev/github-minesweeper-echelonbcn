@@ -22,6 +22,11 @@
 		"flag f7",
 		"clear h3",
 		"clear f8",
-		"flag h1"
+		"flag h1",
+		"clear h2",
+		"clear g4",
+		"clear h4",
+		"clear g8"
+
 	]
 }
