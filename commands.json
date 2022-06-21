@@ -1,8 +1,8 @@
 {
   "commands": [
-  	clear b2,
-  	clear b7,
-  	clear g2,
-  	clear g7
+  	"clear b2",
+  	"clear b7",
+  	"clear g2",
+  	"clear g7"
   ]
 }
